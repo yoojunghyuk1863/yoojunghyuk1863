@@ -1,5 +1,5 @@
-## Hi there 👋
-
+![image alt](
+https://github.com/yoojunghyuk1863/My-art-/blob/main/e1eef0558d069f55c913b8d416496b93.jpg)
 <!--
 **yoojunghyuk1863/yoojunghyuk1863** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
